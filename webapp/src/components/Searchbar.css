@@ -1,0 +1,16 @@
+
+.search-container {
+    display: flex;
+    margin-top: 7px;
+    margin-left: 200px;
+    padding: 0px;
+}
+
+.searchtext {
+    padding: 8px;
+}
+
+.searchbtn {
+    padding: 8px;
+    cursor: pointer;
+}
