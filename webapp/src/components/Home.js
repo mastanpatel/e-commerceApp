@@ -1,10 +1,11 @@
 import React from 'react';
+import './Home.css';
 
 function Home() {
   return (
-    <div class="navbarmenu">
+    <div class="Home-container">
 
-            <p>Home</p>
+            Home
 
     </div>
   );

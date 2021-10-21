@@ -13,7 +13,6 @@ function Navbar() {
             <li class="loginbtn" style={{float:"right"}}><a class="active" href="#about">Login</a></li>
             <li style={{float:"right"}}><Cart/></li>
         </ul>
-      
     </div>
   );
 }

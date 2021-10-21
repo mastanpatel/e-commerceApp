@@ -2,7 +2,7 @@ import React from 'react';
 
 function FilterBar() {
   return (
-    <div class="navbarmenu">
+    <div>
 
             <p>FilterBar</p>
 
