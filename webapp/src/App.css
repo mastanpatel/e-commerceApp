@@ -39,7 +39,8 @@
 
 .body-container {
   display: flex;
-  height: 80%;
+  
+  /* height: 80%; */
 }
 
 .App {
